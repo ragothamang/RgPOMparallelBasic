@@ -6,3 +6,5 @@ added this line to see changes
 This is line from local this is changed by local
 
 remote adding on same line , added from remote
+
+local added this line
