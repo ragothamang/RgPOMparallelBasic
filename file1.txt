@@ -6,5 +6,5 @@ added this line to see changes
 <<<<<<< HEAD
 this is line from local this is changed by local
 =======
-this is line from local following appended from remote
+this is line from local following appended from remote adding on same line from remote
 >>>>>>> 561cd0808b44dd72cfcac1ad02c936bd01f1f005
