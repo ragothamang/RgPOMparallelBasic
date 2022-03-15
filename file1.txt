@@ -14,4 +14,4 @@ Remote edditing(1) local added this line, local editing(2) local added this line
 
 local add line 15
 
-remote typing in line 17
+local edit remote typing in line 17 local edit 17
