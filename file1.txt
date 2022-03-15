@@ -7,8 +7,9 @@ This is line from local this is changed by local
 
 remote adding on same line , added from remote
 
-<<<<<<< HEAD
-local editing(2) local added this line
-=======
-Remote edditing(1) local added this line
->>>>>>> de297ff0d681fae55c05b0ca57a66e7c623c1f56
+
+Remote edditing(1) local added this line, local editing(2) local added this line
+
+
+
+local add lin 15
