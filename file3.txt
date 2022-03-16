@@ -2,3 +2,5 @@ sample added
 
 another line
 for another commit only
+
+for cherry command
