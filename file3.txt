@@ -4,3 +4,5 @@ another line
 for another commit only
 
 for cherry command
+
+yet another for cherry command
